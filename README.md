@@ -153,15 +153,8 @@ I also build the full-stack applications I test, primarily with the MERN stack a
 
 ---
 
-## Pinned Projects
 
-Pinned in this order on my profile — QuickCart first, then my other core QA test-automation suites:
 
-1. QuickCart — Playwright E2E Testing
-2. Employee Management System — Black-Box & BVA Testing
-3. MindMesh — QA Verification Suite
-4. FAST Societies — SQA Test Automation
-5. POS System — JUnit White-Box Testing
 
 ---
 
