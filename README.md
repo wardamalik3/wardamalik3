@@ -17,39 +17,72 @@
 
 ---
 
+## Skills in Motion
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Black-Box%3A+Functional+%C2%B7+BVA+%C2%B7+ECP+%C2%B7+Input+Validation;White-Box%3A+Unit+Testing+%C2%B7+Branch+%2F+Code+Coverage+%C2%B7+Cyclomatic+Complexity+%C2%B7+Fault+Injection;Automation%3A+JUnit+%C2%B7+NUnit+%C2%B7+Playwright+%C2%B7+Regression+%C2%B7+E2E;Manual%3A+Test+Case+Design+%C2%B7+Execution+%C2%B7+Pass%2FFail+Analysis;AI+%26+RAG%3A+Retrieval+%C2%B7+Grounding+%C2%B7+Summarization+%C2%B7+Hallucination+Checks;Defects%3A+Bug+Reporting+%C2%B7+Jira+Tracking+%C2%B7+Retesting+%C2%B7+Prioritization;Tools%3A+Jira+%C2%B7+JUnit+%C2%B7+NUnit+%C2%B7+Playwright+%C2%B7+Cypress+%C2%B7+Selenium&font=Fira+Code&size=16&pause=1500&color=00B4D8&center=true&vCenter=true&width=900&height=180&separator=;&multiline=true" alt="Skills Typing SVG" />
+</div>
+
+---
+
 ## About Me
 
-I am a final-year Software Engineering student at FAST-NUCES (CGPA 3.0, Dean's List) and an entry-level SQA Engineer with a strong foundation in both manual and automated testing. My work covers the full quality lifecycle: designing black-box and white-box test cases, automating regression and end-to-end suites with JUnit, NUnit, and Playwright, tracking and retesting defects in Jira, and validating AI/RAG systems for grounding and hallucination risk.
+I am a Software Engineering graduate from FAST-NUCES, Islamabad (CGPA 3.0, Dean's List), and an entry-level SQA Engineer with hands-on experience across the full quality assurance lifecycle. My work spans manual and automated testing: designing black-box test cases using boundary value analysis and equivalence partitioning, writing white-box unit tests with branch and cyclomatic complexity analysis, and building automation suites with JUnit, NUnit, and Playwright for regression and end-to-end coverage.
 
-I have completed five QA-focused projects spanning fault injection, boundary value analysis, cyclomatic complexity analysis, and API testing. I am AWS Certified, with hands-on experience in cloud infrastructure, and I also build the full-stack applications I test, which gives me a practical understanding of how defects originate, not just how to catch them.
+Beyond functional testing, I have hands-on experience validating AI and RAG-based systems, checking retrieval accuracy, grounding, and hallucination risk in real project-management and knowledge tools. I manage the full defect lifecycle in Jira, from logging and prioritizing bugs to retesting and closing them out, and I document QA evidence thoroughly so findings are reproducible and actionable for the rest of the team.
+
+I have completed five in-depth QA projects, including a fault-injection study where I introduced 25 controlled defects across 5 modules to measure how well an 80-test NUnit suite could catch them. I also gained hands-on DevOps and cloud experience during a Software Development and DevOps internship, working with Git-based collaboration, deployment coordination, and CI/CD concepts, and I hold an AWS certification covering core cloud infrastructure services.
+
+I also build the full-stack applications I test, primarily with the MERN stack and Next.js, which gives me a practical, developer-level understanding of where and why defects originate rather than just how to catch them.
 
 ---
 
 ## Skills & Technologies
 
-**DevOps & Cloud Infrastructure**
+<details>
+<summary><b>DevOps & Cloud Infrastructure</b></summary>
+<br>
+
 Azure DevOps · AWS (EC2, VPC, RDS, ALB, Auto Scaling, IAM, Secrets Manager) · CI/CD · Docker · Kubernetes · GitHub Actions · Jenkins
 
-**Testing**
-- Black-Box: Functional Testing, Boundary Value Analysis, Equivalence Partitioning, Input Validation Testing
-- White-Box: Unit Testing, Branch Coverage, Code Coverage, Cyclomatic Complexity, Fault Injection Testing
-- Automation: JUnit, NUnit, Playwright, Regression Testing, End-to-End Testing
-- Manual: Test Case Design, Execution, Validation, Pass/Fail Analysis
-- AI & RAG: Retrieval Verification, Grounding Checks, Summarization Testing, Hallucination-Risk Checks
-- Defect Management: Bug Reporting, Jira Tracking, Retesting, Defect Prioritization
+</details>
 
-**Tools**
+<details>
+<summary><b>Testing</b></summary>
+<br>
+
+- **Black-Box:** Functional Testing, Boundary Value Analysis, Equivalence Partitioning, Input Validation Testing
+- **White-Box:** Unit Testing, Branch Coverage, Code Coverage, Cyclomatic Complexity, Fault Injection Testing
+- **Automation:** JUnit, NUnit, Playwright, Regression Testing, End-to-End Testing
+- **Manual:** Test Case Design, Execution, Validation, Pass/Fail Analysis
+- **AI & RAG:** Retrieval Verification, Grounding Checks, Summarization Testing, Hallucination-Risk Checks
+- **Defect Management:** Bug Reporting, Jira Tracking, Retesting, Defect Prioritization
+
+</details>
+
+<details>
+<summary><b>Tools</b></summary>
+<br>
+
 Jira · JUnit · NUnit · Playwright · Cypress · Selenium · Jest · Vitest · Git
 
-**Languages**
+</details>
+
+<details>
+<summary><b>Languages</b></summary>
+<br>
+
 Java · JavaScript · TypeScript · C++ · Python · C
 
-**Application Stack Tested**
+</details>
+
+<details>
+<summary><b>Application Stack Tested</b></summary>
+<br>
+
 MERN (MongoDB, Express.js, React, Node.js) · Next.js · Tailwind CSS · JavaFX · MySQL
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,mysql,docker,aws,git" />
-</div>
+</details>
 
 ---
 
@@ -72,6 +105,10 @@ MERN (MongoDB, Express.js, React, Node.js) · Next.js · Tailwind CSS · JavaFX 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wardamalik3&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wardamalik3&theme=tokyo-night&hide_border=true&area=true" width="90%" />
+</div>
+
 ---
 
 ## Pinned Projects
@@ -83,14 +120,6 @@ Pinned in this order on my profile — QuickCart first, then my other core QA te
 3. MindMesh — QA Verification Suite
 4. FAST Societies — SQA Test Automation
 5. POS System — JUnit White-Box Testing
-
----
-
-## Contribution Graph
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/wardamalik3/wardamalik3/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
