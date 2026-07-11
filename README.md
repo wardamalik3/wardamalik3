@@ -21,19 +21,15 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Functional+%C2%B7+BVA+%C2%B7+ECP+%C2%B7+Input+Validation&font=Fira+Code&size=15&pause=1000&color=9D4EDD&center=true&vCenter=true&width=420&height=35&separator=;" alt="Black-Box" /> <b>Black-Box Testing</b>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Unit+Testing+%C2%B7+Branch+%2F+Code+Coverage+%C2%B7+Cyclomatic+Complexity+%C2%B7+Fault+Injection&font=Fira+Code&size=15&pause=1000&color=F4A261&center=true&vCenter=true&width=420&height=35&separator=;" alt="White-Box" /> <b>White-Box Testing</b>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=JUnit+%C2%B7+NUnit+%C2%B7+Playwright+%C2%B7+Regression+%C2%B7+E2E&font=Fira+Code&size=15&pause=1000&color=2A9D8F&center=true&vCenter=true&width=420&height=35&separator=;" alt="Automation" /> <b>Automation Testing</b>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Test+Case+Design+%C2%B7+Execution+%C2%B7+Pass%2FFail+Analysis&font=Fira+Code&size=15&pause=1000&color=E76F51&center=true&vCenter=true&width=420&height=35&separator=;" alt="Manual" /> <b>Manual Testing</b>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Retrieval+%C2%B7+Grounding+%C2%B7+Summarization+%C2%B7+Hallucination+Checks&font=Fira+Code&size=15&pause=1000&color=00B4D8&center=true&vCenter=true&width=420&height=35&separator=;" alt="AI and RAG" /> <b>AI & RAG Testing</b>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Bug+Reporting+%C2%B7+Jira+Tracking+%C2%B7+Retesting+%C2%B7+Prioritization&font=Fira+Code&size=15&pause=1000&color=E63946&center=true&vCenter=true&width=420&height=35&separator=;" alt="Defect Management" /> <b>Defect Management</b>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Jira+%C2%B7+JUnit+%C2%B7+NUnit+%C2%B7+Playwright+%C2%B7+Cypress+%C2%B7+Selenium&font=Fira+Code&size=15&pause=1000&color=52B788&center=true&vCenter=true&width=420&height=35&separator=;" alt="Tools" /> <b>Tools</b>
+<table>
+<tr><td width="60">⚫</td><td><b>Black-Box Testing</b></td><td><img src="https://readme-typing-svg.demolab.com/?lines=Functional+Testing;BVA+%C2%B7+ECP+%C2%B7+Input+Validation&font=Fira+Code&size=15&pause=1200&color=9D4EDD&center=true&vCenter=true&width=380&height=32&separator=;" alt="Black-Box" /></td></tr>
+<tr><td>⚪</td><td><b>White-Box Testing</b></td><td><img src="https://readme-typing-svg.demolab.com/?lines=Unit+Testing+%C2%B7+Branch+Coverage;Cyclomatic+Complexity+%C2%B7+Fault+Injection&font=Fira+Code&size=15&pause=1200&color=F4A261&center=true&vCenter=true&width=380&height=32&separator=;" alt="White-Box" /></td></tr>
+<tr><td>🤖</td><td><b>Automation Testing</b></td><td><img src="https://readme-typing-svg.demolab.com/?lines=JUnit+%C2%B7+NUnit+%C2%B7+Playwright;Regression+%C2%B7+End-to-End+Testing&font=Fira+Code&size=15&pause=1200&color=2A9D8F&center=true&vCenter=true&width=380&height=32&separator=;" alt="Automation" /></td></tr>
+<tr><td>🖐️</td><td><b>Manual Testing</b></td><td><img src="https://readme-typing-svg.demolab.com/?lines=Test+Case+Design+%C2%B7+Execution;Pass%2FFail+Analysis&font=Fira+Code&size=15&pause=1200&color=E76F51&center=true&vCenter=true&width=380&height=32&separator=;" alt="Manual" /></td></tr>
+<tr><td>🧠</td><td><b>AI & RAG Testing</b></td><td><img src="https://readme-typing-svg.demolab.com/?lines=Retrieval+%C2%B7+Grounding;Summarization+%C2%B7+Hallucination+Checks&font=Fira+Code&size=15&pause=1200&color=00B4D8&center=true&vCenter=true&width=380&height=32&separator=;" alt="AI and RAG" /></td></tr>
+<tr><td>🐞</td><td><b>Defect Management</b></td><td><img src="https://readme-typing-svg.demolab.com/?lines=Bug+Reporting+%C2%B7+Jira+Tracking;Retesting+%C2%B7+Prioritization&font=Fira+Code&size=15&pause=1200&color=E63946&center=true&vCenter=true&width=380&height=32&separator=;" alt="Defect Management" /></td></tr>
+<tr><td>🛠️</td><td><b>Tools</b></td><td><img src="https://readme-typing-svg.demolab.com/?lines=Jira+%C2%B7+JUnit+%C2%B7+NUnit;Playwright+%C2%B7+Cypress+%C2%B7+Selenium&font=Fira+Code&size=15&pause=1200&color=52B788&center=true&vCenter=true&width=380&height=32&separator=;" alt="Tools" /></td></tr>
+</table>
 
 </div>
 
