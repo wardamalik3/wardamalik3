@@ -20,7 +20,21 @@
 ## Skills in Motion
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Black-Box%3A+Functional+%C2%B7+BVA+%C2%B7+ECP+%C2%B7+Input+Validation;White-Box%3A+Unit+Testing+%C2%B7+Branch+%2F+Code+Coverage+%C2%B7+Cyclomatic+Complexity+%C2%B7+Fault+Injection;Automation%3A+JUnit+%C2%B7+NUnit+%C2%B7+Playwright+%C2%B7+Regression+%C2%B7+E2E;Manual%3A+Test+Case+Design+%C2%B7+Execution+%C2%B7+Pass%2FFail+Analysis;AI+%26+RAG%3A+Retrieval+%C2%B7+Grounding+%C2%B7+Summarization+%C2%B7+Hallucination+Checks;Defects%3A+Bug+Reporting+%C2%B7+Jira+Tracking+%C2%B7+Retesting+%C2%B7+Prioritization;Tools%3A+Jira+%C2%B7+JUnit+%C2%B7+NUnit+%C2%B7+Playwright+%C2%B7+Cypress+%C2%B7+Selenium&font=Fira+Code&size=16&pause=1500&color=00B4D8&center=true&vCenter=true&width=900&height=180&separator=;&multiline=true" alt="Skills Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Functional+%C2%B7+BVA+%C2%B7+ECP+%C2%B7+Input+Validation&font=Fira+Code&size=15&pause=1000&color=9D4EDD&center=true&vCenter=true&width=420&height=35&separator=;" alt="Black-Box" /> <b>Black-Box Testing</b>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Unit+Testing+%C2%B7+Branch+%2F+Code+Coverage+%C2%B7+Cyclomatic+Complexity+%C2%B7+Fault+Injection&font=Fira+Code&size=15&pause=1000&color=F4A261&center=true&vCenter=true&width=420&height=35&separator=;" alt="White-Box" /> <b>White-Box Testing</b>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=JUnit+%C2%B7+NUnit+%C2%B7+Playwright+%C2%B7+Regression+%C2%B7+E2E&font=Fira+Code&size=15&pause=1000&color=2A9D8F&center=true&vCenter=true&width=420&height=35&separator=;" alt="Automation" /> <b>Automation Testing</b>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Test+Case+Design+%C2%B7+Execution+%C2%B7+Pass%2FFail+Analysis&font=Fira+Code&size=15&pause=1000&color=E76F51&center=true&vCenter=true&width=420&height=35&separator=;" alt="Manual" /> <b>Manual Testing</b>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Retrieval+%C2%B7+Grounding+%C2%B7+Summarization+%C2%B7+Hallucination+Checks&font=Fira+Code&size=15&pause=1000&color=00B4D8&center=true&vCenter=true&width=420&height=35&separator=;" alt="AI and RAG" /> <b>AI & RAG Testing</b>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Bug+Reporting+%C2%B7+Jira+Tracking+%C2%B7+Retesting+%C2%B7+Prioritization&font=Fira+Code&size=15&pause=1000&color=E63946&center=true&vCenter=true&width=420&height=35&separator=;" alt="Defect Management" /> <b>Defect Management</b>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Jira+%C2%B7+JUnit+%C2%B7+NUnit+%C2%B7+Playwright+%C2%B7+Cypress+%C2%B7+Selenium&font=Fira+Code&size=15&pause=1000&color=52B788&center=true&vCenter=true&width=420&height=35&separator=;" alt="Tools" /> <b>Tools</b>
+
 </div>
 
 ---
@@ -40,15 +54,23 @@ I also build the full-stack applications I test, primarily with the MERN stack a
 ## Skills & Technologies
 
 <details>
-<summary><b>DevOps & Cloud Infrastructure</b></summary>
+<summary><b>☁️ DevOps & Cloud Infrastructure</b></summary>
 <br>
 
-Azure DevOps · AWS (EC2, VPC, RDS, ALB, Auto Scaling, IAM, Secrets Manager) · CI/CD · Docker · Kubernetes · GitHub Actions · Jenkins
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+*AWS services used: EC2, VPC, RDS, ALB, Auto Scaling, IAM, Secrets Manager*
 
 </details>
 
 <details>
-<summary><b>Testing</b></summary>
+<summary><b>🧪 Testing</b></summary>
 <br>
 
 - **Black-Box:** Functional Testing, Boundary Value Analysis, Equivalence Partitioning, Input Validation Testing
@@ -61,26 +83,46 @@ Azure DevOps · AWS (EC2, VPC, RDS, ALB, Auto Scaling, IAM, Secrets Manager) · 
 </details>
 
 <details>
-<summary><b>Tools</b></summary>
+<summary><b>🛠️ Tools</b></summary>
 <br>
 
-Jira · JUnit · NUnit · Playwright · Cypress · Selenium · Jest · Vitest · Git
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![NUnit](https://img.shields.io/badge/NUnit-000000?style=flat-square&logo=nunit&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>Languages</b></summary>
+<summary><b>💻 Languages</b></summary>
 <br>
 
-Java · JavaScript · TypeScript · C++ · Python · C
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 </details>
 
 <details>
-<summary><b>Application Stack Tested</b></summary>
+<summary><b>🌐 Application Stack Tested</b></summary>
 <br>
 
-MERN (MongoDB, Express.js, React, Node.js) · Next.js · Tailwind CSS · JavaFX · MySQL
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-EA2D2E?style=flat-square&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </details>
 
